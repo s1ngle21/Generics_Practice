@@ -1,6 +1,6 @@
 package second_task;
 
-public class Apple extends Fruits {
+public class Apple extends Fruit {
     public Apple() {
         super(1.0F);
     }

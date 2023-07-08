@@ -33,8 +33,6 @@ public class Main {
         System.out.println("Weight of orange box: " + orangeBox.getWeight());
 
         System.out.println("Is apple box equal to orange box? " + appleBox.compare(orangeBox));
-
-
     }
 
 }
